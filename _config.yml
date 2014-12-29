@@ -1,9 +1,9 @@
-title: thedoritos.log
-url: http://thedoritos.github.io
+title: blog.tomshero.net
+url: http://blog.tomshero.net
 description: Just a reminder for me
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
 highlighter: pygments
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'Guardfile', 'vendor']
+exclude: ['README.md', 'CNAME', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'Guardfile', 'vendor']
