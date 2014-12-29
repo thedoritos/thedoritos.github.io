@@ -1,6 +1,6 @@
-title: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+title: thedoritos.log
+url: http://thedoritos.github.io
+description: Just a reminder for me
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
