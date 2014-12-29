@@ -1,44 +1,25 @@
-Solar Theme for Jekyll
-======================
+blog.tomshero.net
+=================
 
-A stylish theme for [Jekyll](http://jekyllrb.com/) blogs, based on the [Solarized](http://ethanschoonover.com/solarized) color palette.
+About
+-----
 
-![Screenshot](http://i.imgur.com/UnnRhkt.png)
+This is a blog page written by thedoritos.
 
+License for Articles
+--------------------
 
-Features
--------
+ARTICLES are the all files included in the following directories.
 
-* **Two color schemes** — One for Solarized Dark and one for Solarized Light. Just swap the reference to the `colors-dark.css` file with `colors-light.css` if you don't like light-on-dark.
-* **Linkblog support** — Solar will turn your post title into an external link if you add `external-url: http://example.org` to a post's YAML front matter.
-* **Responsive Design** — Solarized adapts to fit any screen size.
+* _posts
+* images
+* about
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />ARTICLES are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-Installation
---------------
+License for Software
+--------------------
 
-There are two ways to use Solar. You can either clone-and-go, copying the repository and tweaking the contents to taste, or you can cherry-pick the files you want and integrate them into an existing Jekyll instance. 
+The files other than ARTICLES are licensed under the [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html).
 
-If you're starting a new blog, you want to clone-and-go. Just `git clone https://github.com/redwallhp/solar-theme-jekyll.git`, make any changes you want to the template, pages or `_config.yml` and start blogging with Jekyll. Easy.
-
-If you're wanting to replace the theme of an existing Jekyll blog, either option should work. If you want to replace files individually, the files and directories you want to make sure to copy are:
-
-1. `_layouts`
-2. `archives`
-3. `assets`
-4. `feed.xml`
-5. `index.xml`
-
-You'll also want to compare Solar's `_config.yml` with your own, making any appropriate changes.
-
-
-Demo
--------
-
-You can see a demo of Solar [right here on GitHub Pages.](http://mattvh.github.io/solar-theme-jekyll/)
-
-
-License
----------
-
-GPLv2 or higher
+This software is based on the work of [https://github.com/mattvh/solar-theme-jekyll](https://github.com/mattvh/solar-theme-jekyll)
