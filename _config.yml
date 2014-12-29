@@ -1,6 +1,6 @@
-title: blog.tomshero.net
+title: private void
 url: http://blog.tomshero.net
-description: Just a reminder for me
+description: /* just a reminder for me */
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
