@@ -1,30 +1,12 @@
 ---
 layout: post
-title: "Unity And Android Project"
+title: "1st Week on 2015"
 date: 2015-01-11 00:00:00
 categories: unity android xcode erros
 
 ---
 
-## Errors this week
-
-Environment:
-
-    $ sw_vers
-    ProductName:	Mac OS X
-    ProductVersion:	10.10.1
-    BuildVersion:	14B25
-    
-    $ rbenv -v
-    rbenv 0.4.0-95-gf71e227
-    
-    $ ruby -v
-    ruby 2.1.1p76 (2014-02-24 revision 45161) [x86_64-darwin14.0]
-    
-    $ gem -v
-    2.2.2
-
-hoge
+## Errors on this week
 
 ### RubyGem Xcodeproj can't parse Info.plist exported from Unity project
 
@@ -176,3 +158,21 @@ ButterKnife doesn't support use in library projects
 How to solve it:
 
 Throw ButterKnife away with sorrow :(
+
+## Appendix : Environment
+
+Environment:
+
+    $ sw_vers
+    ProductName:	Mac OS X
+    ProductVersion:	10.10.1
+    BuildVersion:	14B25
+    
+    $ rbenv -v
+    rbenv 0.4.0-95-gf71e227
+    
+    $ ruby -v
+    ruby 2.1.1p76 (2014-02-24 revision 45161) [x86_64-darwin14.0]
+    
+    $ gem -v
+    2.2.2
