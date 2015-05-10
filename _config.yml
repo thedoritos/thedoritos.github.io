@@ -2,7 +2,7 @@ title: private void
 url: http://blog.tomshero.net
 description: /* just a reminder for me */
 
-permalink: /:year/:month/:title/
+permalink: /:year/:month/:title.html
 paginate: 10
 highlighter: pygments
 
