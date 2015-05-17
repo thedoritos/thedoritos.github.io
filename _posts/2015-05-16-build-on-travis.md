@@ -92,7 +92,15 @@ GitHub の公開リポジトリでホストしている iOS アプリプロジ�
 
 #### リポジトリに追加する
 
-TODO: .gitignore
+.gitignore
+
+```
+Travis/Certs/**/*.*
+!Travis/Certs/**/*.encrypted
+Travis/Profiles/**/*.*
+!Travis/Profiles/**/*.encrypted
+!AppleWorldwideDeveloperRelationsCertificationAuthority.cer
+```
 
 ## ビルド手順の設定
 
