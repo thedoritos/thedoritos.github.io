@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OS X の JDK バージョンを更新する"
-date: 2015-08-19 00:00:00
+date: 2015-08-18 00:00:00
 categories: Java
 ---
 
@@ -101,7 +101,9 @@ $ /usr/libexec/java_home -v 1.7
 
 ということで、.bash_profile で JAVA_HOME を定義することにしました。
 
-```.bash_profile
+.bash_profile
+
+```
 export `/usr/libexec/java_home -v 1.8`
 ```
 
